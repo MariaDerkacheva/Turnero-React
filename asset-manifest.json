@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/Turnero-React/static/css/main.31d6cfe0.css",
+    "main.js": "/Turnero-React/static/js/main.73c580f6.js",
+    "index.html": "/Turnero-React/index.html",
+    "main.73c580f6.js.map": "/Turnero-React/static/js/main.73c580f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.73c580f6.js"
+  ]
+}
